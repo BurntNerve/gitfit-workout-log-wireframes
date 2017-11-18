@@ -1,0 +1,9 @@
+.timeline {
+  margin-top: 50px;
+}
+
+.timeline-section {
+  min-height: 93vh;
+  background-color: hsl(0, 0%, 21%);
+  color: hsl(0, 0%, 98%);
+}
